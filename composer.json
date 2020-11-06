@@ -1,6 +1,6 @@
 {
-    "name": "lynx39/lara-pdf-merger",
-    "description": "",
+    "name": "amondimedia/lara-pdf-merger",
+    "description": "Forked from https://github.com/deltaaskii/lara-pdf-merger.",
     "keywords": ["merger","merge","pdf","manage","paginate", "laravel"],
     "license" : [
         "MIT"
